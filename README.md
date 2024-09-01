@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Felipe 👋
 
-<!--
-**felipecostacouto/felipecostacouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m actively studying Cloud (AWS), Linux, Python, and Terraform, aiming to transition into a cloud/DevOps role.
 
-Here are some ideas to get you started:
+🚀 **Awesome new cloud and Linux projects are on the way!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently working on: [CloudResumeChallengeAWS](https://github.com/felipecostacouto?tab=repositories#:~:text=CloudResumeChallengeAWS)
+- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/felipecostacouto/)
+
+## GitHub Stats
+
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecostacouto&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+
+## Tech Enthusiast
+
+![Tux](https://img.shields.io/badge/Linux-Tux-black?style=flat&logo=linux&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-Cloud%20Computing-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-8C3D8B?style=flat&logo=terraform&logoColor=white) ![Python](https://img.shields.io/badge/Python-Programming%20Language-306998?style=flat&logo=python&logoColor=white)
