@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I’m actively studying Cloud (AWS), Linux, Python
 
 🚀 **Awesome new cloud and Linux projects are on the way!**
 
-- 🌱 Currently working on: [CloudResumeChallengeAWS](https://github.com/felipecostacouto?tab=repositories#:~:text=CloudResumeChallengeAWS)
-- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/felipecostacouto/)
+- 🌱 Currently working on: [CloudResumeChallengeAWS](https://github.com/felipecostacouto/CloudResumeChallengeAWS)
+- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/felipe-monteiro-costa-couto-841582188/)
 
 ## GitHub Stats
 
