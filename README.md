@@ -1,10 +1,9 @@
 # Hi there, I'm Felipe 👋
 
-Welcome to my GitHub profile! I’m actively studying Cloud (AWS), Linux, Python, and Terraform, aiming to transition into a cloud/DevOps role.
+Welcome to my GitHub profile! I’m actively studying Cloud (AWS), Linux, Python, and Terraform.
 
 🚀 **Awesome new cloud and Linux projects are on the way!**
 
-- 🌱 Currently working on: [CloudResumeChallengeAWS](https://github.com/felipecostacouto/CloudResumeChallengeAWS)
 - 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/felipe-monteiro-costa-couto-841582188/)
 
 ## GitHub Stats
